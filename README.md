@@ -1,2 +1,2 @@
 # DeepLearning
-Folder containing all my project in Deep Learning.
+Folder containing all my projects in Deep Learning.
